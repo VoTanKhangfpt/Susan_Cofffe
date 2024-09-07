@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab87"
+  },
+  "id": 1,
+  "id_user": 1,
+  "ten_nguoi_nhan": "Thu Hằng",
+  "dia_chi": "TPHCM",
+  "email": "hang@gmail.com",
+  "dien_thoai": "091812345",
+  "trang_thai": 0,
+  "ghi_chu": "",
+  "thoi_diem_mua": {
+    "$date": "2024-07-11T08:04:33.106Z"
+  },
+  "created_at": {
+    "$date": "2024-07-11T08:04:33.106Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-11T08:04:33.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab8a"
+  },
+  "id": 2,
+  "id_user": 2,
+  "ten_nguoi_nhan": "Tấn Khang",
+  "dia_chi": "TPHCM",
+  "email": "khangvt@gmail.com",
+  "dien_thoai": "0374780384",
+  "trang_thai": 0,
+  "ghi_chu": "",
+  "thoi_diem_mua": {
+    "$date": "2024-07-11T08:04:33.126Z"
+  },
+  "created_at": {
+    "$date": "2024-07-11T08:04:33.126Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-11T08:04:33.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b7036584047bf2b2df159"
+  },
+  "id": 3,
+  "id_user": 1,
+  "thoi_diem_mua": {
+    "$date": "2024-07-20T08:07:18.832Z"
+  },
+  "ten_nguoi_nhan": "Cao Chót Vót",
+  "dia_chi": "123 Cung Vàng, Điện Ngọc, TP Trăng Vàng",
+  "email": "meomeo@gờmeo.côm",
+  "dien_thoai": "012345678",
+  "trang_thai": 0,
+  "ghi_chu": "Sản phẩm oke",
+  "created_at": {
+    "$date": "2024-07-20T08:07:18.897Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:07:18.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b75b4584047bf2b2df16c"
+  },
+  "id": 4,
+  "id_user": -1,
+  "thoi_diem_mua": {
+    "$date": "2024-07-20T08:30:44.603Z"
+  },
+  "ten_nguoi_nhan": "Võ Tấn Khang",
+  "dia_chi": "239 c đường thống nhất",
+  "email": "khangvtps34511@fpt.edu.vn",
+  "dien_thoai": "0384880384",
+  "trang_thai": 0,
+  "ghi_chu": "",
+  "created_at": {
+    "$date": "2024-07-20T08:30:44.616Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:30:44.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b7632584047bf2b2df178"
+  },
+  "id": 5,
+  "id_user": -1,
+  "thoi_diem_mua": {
+    "$date": "2024-07-20T08:32:50.972Z"
+  },
+  "ten_nguoi_nhan": "Võ Ngọc Tâm",
+  "dia_chi": "239c đường Lý Thường Kiệt",
+  "email": "khangvtps34538@fpt.edu.vn",
+  "dien_thoai": "0389444235",
+  "trang_thai": 0,
+  "ghi_chu": "",
+  "created_at": {
+    "$date": "2024-07-20T08:32:50.977Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:32:50.977Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b7699584047bf2b2df184"
+  },
+  "id": 6,
+  "id_user": -1,
+  "thoi_diem_mua": {
+    "$date": "2024-07-20T08:34:33.098Z"
+  },
+  "ten_nguoi_nhan": "Võ Ngọc Tâm Kinh",
+  "dia_chi": "298c HCM",
+  "email": "khangvtps33518@fpt.edu.vn",
+  "dien_thoai": "098766534",
+  "trang_thai": 0,
+  "ghi_chu": "",
+  "created_at": {
+    "$date": "2024-07-20T08:34:33.103Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:34:33.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b76d4584047bf2b2df196"
+  },
+  "id": 7,
+  "id_user": -1,
+  "thoi_diem_mua": {
+    "$date": "2024-07-20T08:35:32.603Z"
+  },
+  "ten_nguoi_nhan": "Vũ Khánh Như",
+  "dia_chi": "jieiwfjweofjw",
+  "email": "khangvtps30518@fpt.edu.vn",
+  "dien_thoai": "0999999999",
+  "trang_thai": 0,
+  "ghi_chu": "",
+  "created_at": {
+    "$date": "2024-07-20T08:35:32.612Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:35:32.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b79e9584047bf2b2df1a8"
+  },
+  "id": 8,
+  "id_user": -1,
+  "thoi_diem_mua": {
+    "$date": "2024-07-20T08:48:41.084Z"
+  },
+  "ten_nguoi_nhan": "Vo Thanh Nhan",
+  "dia_chi": "ưefefwe",
+  "email": "khangvtps34318@fpt.edu.vn",
+  "dien_thoai": "0999999999999",
+  "trang_thai": 0,
+  "ghi_chu": "",
+  "created_at": {
+    "$date": "2024-07-20T08:48:41.107Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:48:41.107Z"
+  },
+  "__v": 0
+}]

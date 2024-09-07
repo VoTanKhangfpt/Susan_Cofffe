@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab7f"
+  },
+  "id": 1,
+  "ho_ten": "Đào Kho Báu",
+  "email": "daokhobau@gmail.com",
+  "password": "$2a$10$cA.6rqfiGPa30kNbmzsIcexA3faTTbOh1Iow7KRU0Zo3zjrkAlY4K",
+  "role": 1,
+  "created_at": {
+    "$date": "2024-07-11T08:04:33.078Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-11T08:04:33.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab82"
+  },
+  "id": 2,
+  "ho_ten": "Đào Được Vàng",
+  "email": "daoduocvang@gmail.com",
+  "password": "$2a$10$cA.6rqfiGPa30kNbmzsIcexA3faTTbOh1Iow7KRU0Zo3zjrkAlY4K",
+  "role": 0,
+  "created_at": {
+    "$date": "2024-07-11T08:04:33.101Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-11T08:04:33.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab84"
+  },
+  "id": 3,
+  "ho_ten": "Mai Anh Tới",
+  "email": "maianhtoi@gmail.com",
+  "password": "$2a$10$cA.6rqfiGPa30kNbmzsIcexA3faTTbOh1Iow7KRU0Zo3zjrkAlY4K",
+  "role": 1,
+  "created_at": {
+    "$date": "2024-07-11T08:04:33.102Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-11T08:04:33.102Z"
+  },
+  "__v": 0
+}]

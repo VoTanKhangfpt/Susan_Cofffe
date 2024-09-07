@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baadb"
+  },
+  "id": 1,
+  "ten_loai": "Cà phê nguyên chất",
+  "thu_tu": 1,
+  "an_hien": true,
+  "created_at": {
+    "$date": "2024-07-11T08:04:32.888Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-11T08:04:32.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baade"
+  },
+  "id": 2,
+  "ten_loai": "Cà phê truyền thống",
+  "thu_tu": 3,
+  "an_hien": true,
+  "created_at": {
+    "$date": "2024-07-11T08:04:32.898Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-11T08:04:32.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baae0"
+  },
+  "id": 3,
+  "ten_loai": "Cà phê tiện lợi",
+  "thu_tu": 2,
+  "an_hien": true,
+  "created_at": {
+    "$date": "2024-07-11T08:04:32.910Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-11T08:04:32.910Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baae2"
+  },
+  "id": 4,
+  "ten_loai": "Dụng cụ pha chế",
+  "thu_tu": 5,
+  "an_hien": true,
+  "created_at": {
+    "$date": "2024-07-11T08:04:32.912Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-11T08:04:32.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baae4"
+  },
+  "id": 5,
+  "ten_loai": "Trà ngon thứ thiệt",
+  "thu_tu": 4,
+  "an_hien": true,
+  "created_at": {
+    "$date": "2024-07-11T08:04:32.914Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-11T08:04:32.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a76fa2d194432c09a4d9aa"
+  },
+  "id": 6,
+  "ten_loai": "èwefwefwefwef",
+  "thu_tu": 0,
+  "an_hien": true,
+  "created_at": {
+    "$date": "2024-07-29T10:32:02.669Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-29T10:32:02.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a864b5a4afae8d9a084e40"
+  },
+  "id": 7,
+  "ten_loai": "Apple10",
+  "thu_tu": 2,
+  "an_hien": true,
+  "created_at": {
+    "$date": "2024-07-30T03:57:41.330Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-30T03:57:41.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a86603a4afae8d9a084e43"
+  },
+  "id": 8,
+  "ten_loai": "Apple11",
+  "thu_tu": 4,
+  "an_hien": true,
+  "created_at": {
+    "$date": "2024-07-30T04:03:15.957Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-30T04:03:15.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a8662aa4afae8d9a084e46"
+  },
+  "id": 9,
+  "ten_loai": "èwefwef",
+  "thu_tu": 15,
+  "an_hien": true,
+  "created_at": {
+    "$date": "2024-07-30T04:03:54.439Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-30T04:03:54.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a866bda4afae8d9a084e49"
+  },
+  "id": 10,
+  "ten_loai": "fewfwef",
+  "thu_tu": 2,
+  "an_hien": true,
+  "created_at": {
+    "$date": "2024-07-30T04:06:21.877Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-30T04:06:21.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a86774a4afae8d9a084e4f"
+  },
+  "id": 11,
+  "ten_loai": "Apple11",
+  "thu_tu": 16,
+  "an_hien": true,
+  "created_at": {
+    "$date": "2024-07-30T04:09:24.805Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-30T04:09:24.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a8678fa4afae8d9a084e52"
+  },
+  "id": 12,
+  "ten_loai": "Apple11",
+  "thu_tu": -1,
+  "an_hien": true,
+  "created_at": {
+    "$date": "2024-07-30T04:09:51.666Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-30T04:09:51.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a86798a4afae8d9a084e55"
+  },
+  "id": 13,
+  "ten_loai": "Apple11",
+  "thu_tu": -2,
+  "an_hien": true,
+  "created_at": {
+    "$date": "2024-07-30T04:10:00.375Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-30T04:10:00.375Z"
+  },
+  "__v": 0
+}]

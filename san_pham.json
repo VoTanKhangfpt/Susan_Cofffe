@@ -1,0 +1,1743 @@
+[{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baae7"
+  },
+  "id": 1,
+  "ten_sp": "Robusta Dak Mil - 500g",
+  "id_loai": 1,
+  "sku": "CF175HA005",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_nguyen_chat_robusta_dak_mil_-_phuong_vy_coffee_e718b84fc7c246eea7a4300d09c937e7_grande.jpg",
+  "gia": 134000,
+  "an_hien": true,
+  "luot_xem": 1770,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-10-06T23:38:21.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-10-06T23:38:21.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baaea"
+  },
+  "id": 2,
+  "ten_sp": "Tươi Đậm - 250g",
+  "id_loai": 1,
+  "sku": "CF176HA007",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_nguyen_chat_rang_tuoi_-_tuoi_dam_-_phuong_vy_coffee_1cfa7277c0334219b82506e2f6d1125d_grande.jpg",
+  "gia": 116000,
+  "an_hien": true,
+  "luot_xem": 184,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-07-01T01:53:52.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-07-01T01:53:52.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baaec"
+  },
+  "id": 3,
+  "ten_sp": "Arabica Cầu Đất - 500g",
+  "id_loai": 1,
+  "sku": " CF175HA004",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_nguyen_chat_arabica_cau_dat_-_phuong_vy_coffee_14686d8e8eaf4cd9b564d21bf305fbae_grande.jpg",
+  "gia": 194000,
+  "an_hien": true,
+  "luot_xem": 571,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-10-15T16:55:49.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-10-15T16:55:49.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baaee"
+  },
+  "id": 4,
+  "ten_sp": "Pha Phin Truyền Thống - 500g",
+  "id_loai": 1,
+  "sku": "CF175HA003",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_nguyen_chat_pha_phin_truyen_thong_-_phuong_vy_coffee_1224832c701b4b309d45dc958a631419_grande.jpg",
+  "gia": 159000,
+  "an_hien": true,
+  "luot_xem": 847,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-08-22T10:11:49.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-08-22T10:11:49.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baaf0"
+  },
+  "id": 5,
+  "ten_sp": "Gu Ý Pha Máy - 500g",
+  "id_loai": 1,
+  "sku": "CF175HA002",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_nguyen_chat_gu_y_pha_may_-_phuong_vy_coffee_13f75f0849c24c03a49e443168c64664_grande.jpg",
+  "gia": 167000,
+  "an_hien": true,
+  "luot_xem": 471,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-11-01T10:10:41.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-11-01T10:10:41.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baaf2"
+  },
+  "id": 6,
+  "ten_sp": "Gu Việt Pha Máy - 500g",
+  "id_loai": 1,
+  "sku": "CF175HA001",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_nguyen_chat_gu_viet_pha_may_-_phuong_vy_coffee_de773b80fa5f4a8f8ce7426af4fdc813_grande.jpg",
+  "gia": 159000,
+  "an_hien": true,
+  "luot_xem": 1938,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-01-17T04:16:09.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-01-17T04:16:09.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baaf4"
+  },
+  "id": 7,
+  "ten_sp": "Cà Phê Decaf - 500g",
+  "id_loai": 1,
+  "sku": "CFK50HA002",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_nguyen_chat_robusta_decaf_-_phuong_vy_coffee_748333a5faea46108db303b637b33149_grande.jpg",
+  "gia": 195000,
+  "an_hien": true,
+  "luot_xem": 945,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-08-27T19:27:00.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-08-27T19:27:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baaf6"
+  },
+  "id": 8,
+  "ten_sp": "25th Anniversary - 500g",
+  "id_loai": 1,
+  "sku": "CFS11BO001",
+  "hinh": "https://product.hstatic.net/1000274203/product/h_phan_ca_phe_rang_xay_nguyen_chat_25th_anniversary_-_phuong_vy_coffee_df1d28d8e02a48189c113c259ce133a3_grande.jpg",
+  "gia": 319000,
+  "an_hien": true,
+  "luot_xem": 22,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-07-25T14:53:17.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-25T14:53:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baaf8"
+  },
+  "id": 9,
+  "ten_sp": "Tươi Vui - 250g",
+  "id_loai": 1,
+  "sku": "CF176HA005",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_nguyen_chat_rang_tuoi_-_tuoi_vui_-_phuong_vy_coffee_0e48f2bac86549aaad64b27516cbd137_grande.jpg",
+  "gia": 139000,
+  "an_hien": true,
+  "luot_xem": 824,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-04-18T12:43:33.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-18T12:43:33.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baafa"
+  },
+  "id": 10,
+  "ten_sp": "Tươi Thơm - 250g",
+  "id_loai": 1,
+  "sku": "CF176HA006",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_nguyen_chat_rang_tuoi_-_tuoi_thom_-_phuong_vy_coffee_3230f2d0eaa14c099ecc7b9317d4ccde_grande.jpg",
+  "gia": 172000,
+  "an_hien": true,
+  "luot_xem": 960,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-06-19T12:04:34.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-19T12:04:34.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baafc"
+  },
+  "id": 11,
+  "ten_sp": "Moka Chồn - 500g",
+  "id_loai": 1,
+  "sku": "CFS19BO001",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_nguyen_chat_rang_bo_moka_chon_-_phuong_vy_coffee_c1821cc8f419415ab6228091de36f224_grande.jpg",
+  "gia": 117000,
+  "an_hien": true,
+  "luot_xem": 471,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-04-20T07:04:24.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-04-20T07:04:24.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4baafe"
+  },
+  "id": 12,
+  "ten_sp": "Healthy Coffee - 500g",
+  "id_loai": 1,
+  "sku": "CFS17BO002",
+  "hinh": "https://product.hstatic.net/1000274203/product/hanh_phan_ca_phe_nguyen_chat_rang_bo_healthy_coffee_-_phuong_vy_coffee_04afb6259d324d4594bd7f5276336592_grande.jpg",
+  "gia": 106000,
+  "an_hien": true,
+  "luot_xem": 81,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-06-27T14:53:01.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-27T14:53:01.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab00"
+  },
+  "id": 13,
+  "ten_sp": "Love Coffee - 500g",
+  "id_loai": 1,
+  "sku": "CFS21HA001",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_nguyen_chat_love_coffee_-_phuong_vy_coffee_ad280383098040b5b6ef6afa8d013e11_grande.jpg",
+  "gia": 148000,
+  "an_hien": true,
+  "luot_xem": 56,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-07-10T00:38:06.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-10T00:38:06.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab02"
+  },
+  "id": 14,
+  "ten_sp": "Cà Phê Mộc 1 - 500g",
+  "id_loai": 1,
+  "sku": "CFR01HA001",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_nguyen_chat_rang_bo_moc_1_-_phuong_vy_coffee_331a8a0189f447ca8c681df12edb5c76_grande.jpg",
+  "gia": 147000,
+  "an_hien": true,
+  "luot_xem": 1712,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-11-18T15:42:20.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-11-18T15:42:20.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab04"
+  },
+  "id": 15,
+  "ten_sp": "Cà Phê Mộc 2 - 500g",
+  "id_loai": 1,
+  "sku": "CFR02HA001",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_nguyen_chat_moc_2_-_phuong_vy_coffee_4587105563a94072bb73014753521410_grande.jpg",
+  "gia": 140000,
+  "an_hien": true,
+  "luot_xem": 1414,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-03-27T02:55:26.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-03-27T02:55:26.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab06"
+  },
+  "id": 16,
+  "ten_sp": "Buôn Mê Thuột MoKa - 500g",
+  "id_loai": 2,
+  "sku": "CFS05BO002",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_buon_me_thuot_moka_-_phuong_vy_coffee_8ccb2ffa340346e08eb9b23818de0114_grande.jpg",
+  "gia": 79000,
+  "an_hien": true,
+  "luot_xem": 133,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-01-25T04:40:02.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-01-25T04:40:02.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab08"
+  },
+  "id": 17,
+  "ten_sp": "Buôn Mê Thuột Đặc Biệt - 500g",
+  "id_loai": 2,
+  "sku": "CFS04BO002",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_buon_me_thuot_dac_biet-_phuong_vy_coffee_eba5a326c9fb4039bc9394c7a286a943_grande.jpg",
+  "gia": 73000,
+  "an_hien": true,
+  "luot_xem": 1778,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-06-24T02:26:47.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-24T02:26:47.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab0a"
+  },
+  "id": 18,
+  "ten_sp": "Culi Chồn - 500g",
+  "id_loai": 2,
+  "sku": "CFS18BO001",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_culi_chon_-_phuong_vy_coffee_71bddd249a1d4c4687041cf73af53322_grande.jpg",
+  "gia": 106000,
+  "an_hien": true,
+  "luot_xem": 1478,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-03-27T14:00:15.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-03-27T14:00:15.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab0c"
+  },
+  "id": 19,
+  "ten_sp": "Passion Coffee - 500g",
+  "id_loai": 2,
+  "sku": "CFS17BO001",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_passion_coffee-_phuong_vy_coffee_e040ee4fb2cb44b5976a4610b6b7aaac_grande.jpg",
+  "gia": 89000,
+  "an_hien": true,
+  "luot_xem": 968,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-06-18T22:02:26.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-18T22:02:26.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab0e"
+  },
+  "id": 20,
+  "ten_sp": "Cà Phê Phin Đậm - 500g",
+  "id_loai": 2,
+  "sku": "CFS20BO001",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_phin_dam_-_phuong_vy_coffee_0c99aa489a8d4817ac39d1501d3e8ac5_grande.jpg",
+  "gia": 77000,
+  "an_hien": true,
+  "luot_xem": 364,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-11-24T06:45:33.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-11-24T06:45:33.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab10"
+  },
+  "id": 21,
+  "ten_sp": "Horeca Blend 1 - 500g",
+  "id_loai": 2,
+  "sku": "CFS01BO001",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_horeca_blend_1-_phuong_vy_coffee_05e2a8639d9b41d5b318d28d1ffcb52e_grande.jpg",
+  "gia": 72000,
+  "an_hien": true,
+  "luot_xem": 138,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-10-01T00:48:08.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-10-01T00:48:08.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab12"
+  },
+  "id": 22,
+  "ten_sp": "Horeca Blend 2 - 500g",
+  "id_loai": 2,
+  "sku": "CFS02BO001",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_horeca_blend_2-_phuong_vy_coffee_85f15d1d55714d6cba2727942afa7b19_grande.jpg",
+  "gia": 68000,
+  "an_hien": true,
+  "luot_xem": 694,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-01-19T21:53:35.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-01-19T21:53:35.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab14"
+  },
+  "id": 23,
+  "ten_sp": "Horeca Blend 3 - 500g",
+  "id_loai": 2,
+  "sku": "CFS03BO001",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_horeca_blend_3-_phuong_vy_coffee_37d112d832c5417080462ace91e9058f_grande.jpg",
+  "gia": 64000,
+  "an_hien": true,
+  "luot_xem": 948,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-09-14T08:11:56.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-09-14T08:11:56.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab16"
+  },
+  "id": 24,
+  "ten_sp": "Cà Phê Robusta - 500g",
+  "id_loai": 2,
+  "sku": "CFS14BO002",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_robusta_-_phuong_vy_coffee_f09b382176504e8789e5b421b58dc547_grande.jpg",
+  "gia": 97000,
+  "an_hien": true,
+  "luot_xem": 1471,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-04-04T15:56:26.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-04T15:56:26.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab18"
+  },
+  "id": 25,
+  "ten_sp": "Cà phê Hương Chồn - 500g",
+  "id_loai": 2,
+  "sku": "CFS12BO002",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_huong_chon_-_phuong_vy_coffee_59bc94e4725f4b178ab6708b4af7d9c2_grande.jpg",
+  "gia": 115000,
+  "an_hien": true,
+  "luot_xem": 1899,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-08-02T17:16:39.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-02T17:16:39.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab1a"
+  },
+  "id": 26,
+  "ten_sp": "Cà phê Moka - 500g",
+  "id_loai": 2,
+  "sku": "CFS06BO001",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_bot_moka-_phuong_vy_coffee_da766e13af3b489387b9d8c7823be686_grande.jpg",
+  "gia": 95000,
+  "an_hien": true,
+  "luot_xem": 612,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-10-14T10:05:49.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-10-14T10:05:49.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab1c"
+  },
+  "id": 27,
+  "ten_sp": "Cà phê Ban Mê - 500g",
+  "id_loai": 2,
+  "sku": "CF07BO001",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_bot_ban_me_-_phuong_vy_coffee_995fae6d6da54762a2ba8d069838b5c1_grande.jpg",
+  "gia": 87000,
+  "an_hien": true,
+  "luot_xem": 71,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-07-21T14:36:21.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-07-21T14:36:21.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92101a34e3376f4bab1e"
+  },
+  "id": 28,
+  "ten_sp": "1992 Premium Blend - 400g",
+  "id_loai": 2,
+  "sku": "CFS10BO001",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_1992_premium_blend-_phuong_vy_coffee_cbca754699294a819b03a426ab1c575f_grande.jpg",
+  "gia": 137000,
+  "an_hien": true,
+  "luot_xem": 955,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-03-02T19:32:50.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-03-02T19:32:50.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab20"
+  },
+  "id": 29,
+  "ten_sp": "Cà phê tiện lợi Phin To Go",
+  "id_loai": 3,
+  "sku": "CFTG1BO001",
+  "hinh": "https://product.hstatic.net/1000274203/product/phin_ly_to_go_truyen_thong_phuong_vy_coffee_a8123e06c5f54eb0a25ce3403c4590dd_1024x1024.png",
+  "gia": 21000,
+  "an_hien": true,
+  "luot_xem": 13,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-04-03T17:17:28.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-03T17:17:28.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab22"
+  },
+  "id": 30,
+  "ten_sp": "Cà phê phin giấy",
+  "id_loai": 3,
+  "sku": "CFG01BO001",
+  "hinh": "https://product.hstatic.net/1000274203/product/ca_phe_phin_giay_connoisseur_dc7bb30bf6be49e19b131ab803becefe_grande.jpg",
+  "gia": 116000,
+  "an_hien": true,
+  "luot_xem": 1299,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-08-18T18:06:37.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-08-18T18:06:37.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab24"
+  },
+  "id": 31,
+  "ten_sp": "Cà phê viên nén Delipresso Capsule",
+  "id_loai": 3,
+  "sku": "CFD05BO001",
+  "hinh": "https://product.hstatic.net/1000274203/product/ca_phe_vien_nen_-_capsules_sai_gon_momnet_fba1b64de09c4cc38a7f083ac9a0784a_grande.png",
+  "gia": 81000,
+  "an_hien": true,
+  "luot_xem": 844,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-09-17T12:25:48.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-09-17T12:25:48.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab26"
+  },
+  "id": 32,
+  "ten_sp": "Cà phê viên nén Delipresso K-Cup",
+  "id_loai": 3,
+  "sku": "CFD01BO003",
+  "hinh": "https://product.hstatic.net/1000274203/product/ca_phe_vien_nen_kcup_-_connoisseur_57dc62e1fadb419ebf1f0c232f6dd4a0_grande.jpg",
+  "gia": 139000,
+  "an_hien": true,
+  "luot_xem": 1519,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-01-17T12:26:43.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-01-17T12:26:43.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab28"
+  },
+  "id": 33,
+  "ten_sp": "Cà Phê Hòa Tan Sữa Đá 3in1",
+  "id_loai": 3,
+  "sku": "CFH01BO001",
+  "hinh": "https://product.hstatic.net/1000274203/product/3in1_5_b22411fc1bd14a489bd0ecb1055170c6_grande.png",
+  "gia": 64000,
+  "an_hien": true,
+  "luot_xem": 1014,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-10-08T11:54:13.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-10-08T11:54:13.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab2a"
+  },
+  "id": 34,
+  "ten_sp": "Bình cà phê thủy tinh 600ml",
+  "id_loai": 4,
+  "sku": "CD1TPLSPO933",
+  "hinh": "https://product.hstatic.net/1000274203/product/binh_ca_phe_thuy_tinh_600ml_4328859907844e4ba2f0c5f58f3d6f8b_grande.jpg",
+  "gia": 179000,
+  "an_hien": true,
+  "luot_xem": 1513,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-01-23T09:05:52.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-01-23T09:05:52.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab2c"
+  },
+  "id": 35,
+  "ten_sp": "Bình French press tay cầm nhựa 350ml",
+  "id_loai": 4,
+  "sku": "CDBINFP001",
+  "hinh": "https://product.hstatic.net/1000274203/product/binh_french_press_tay_cam_nhua_350ml_a706ec7f62d24f15befc3f08b00a6dc7_grande.jpg",
+  "gia": 196000,
+  "an_hien": true,
+  "luot_xem": 858,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-10-24T16:55:02.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-10-24T16:55:02.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab2e"
+  },
+  "id": 36,
+  "ten_sp": "Bình pha cà phê Chemex tay cầm nhựa 400ml",
+  "id_loai": 4,
+  "sku": "CDBINCD001",
+  "hinh": "https://product.hstatic.net/1000274203/product/binh_pha_ca_phe_chemex_tay_cam_nhua_400ml_d525a5092ca24edbb798cfea3d3676df_grande.jpg",
+  "gia": 272000,
+  "an_hien": true,
+  "luot_xem": 745,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-07-02T11:49:49.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-02T11:49:49.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab30"
+  },
+  "id": 37,
+  "ten_sp": "Bình Pha Cà Phê Cold Brew 900ml",
+  "id_loai": 4,
+  "sku": "CDBINCB003",
+  "hinh": "https://product.hstatic.net/1000274203/product/binh_pha_ca_phe_cold_brew_900ml_bb5deaa8191744c8baad697718fbb850_grande.jpg",
+  "gia": 690000,
+  "an_hien": true,
+  "luot_xem": 972,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-10-07T06:27:02.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-10-07T06:27:02.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab32"
+  },
+  "id": 38,
+  "ten_sp": "Cối xay 1Zpresso J-Max",
+  "id_loai": 4,
+  "sku": "CD1ZPRESSO003",
+  "hinh": "https://product.hstatic.net/1000274203/product/coi_xay_1zpresso_j-max_257ab9fb1dc64fb492a0e0d4bb54e2d8_grande.jpg",
+  "gia": 4914000,
+  "an_hien": true,
+  "luot_xem": 1129,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-12-18T23:04:50.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-12-18T23:04:50.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab34"
+  },
+  "id": 39,
+  "ten_sp": "Cối xay cà phê 1Zpresso Q2",
+  "id_loai": 4,
+  "sku": "CD1TPRESKO903",
+  "hinh": "https://product.hstatic.net/1000274203/product/coi_xay_1zpresso_q2__a59f9c3c7678455da910fceacd572302_grande.jpg",
+  "gia": 2214000,
+  "an_hien": true,
+  "luot_xem": 347,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-10-16T00:48:48.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-10-16T00:48:48.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab36"
+  },
+  "id": 40,
+  "ten_sp": "Cối xay cà phê cầm tay 1Zpresso JX-Pro",
+  "id_loai": 4,
+  "sku": "CD1ZPRESSO002",
+  "hinh": "https://product.hstatic.net/1000274203/product/coi_xay_1zpresso_jx-pro_2d090d5829b1422b99356d0b7149554e_grande.jpg",
+  "gia": 3888000,
+  "an_hien": true,
+  "luot_xem": 1848,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-07-13T17:03:07.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-13T17:03:07.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab38"
+  },
+  "id": 41,
+  "ten_sp": "Dụng cụ OCD dàn bột phân bổ bột cà phê",
+  "id_loai": 4,
+  "sku": "CD00000058",
+  "hinh": "https://product.hstatic.net/1000274203/product/dung_cu_ocd_dan_bot_phan_bo_bot_ca_phe_d81c735ca23847848712366e3c05c7a8_grande.jpg",
+  "gia": 480000,
+  "an_hien": true,
+  "luot_xem": 1968,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-02-16T11:18:32.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-02-16T11:18:32.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab3a"
+  },
+  "id": 42,
+  "ten_sp": "Giá đỡ phễu cà phê 7.7cm màu đen",
+  "id_loai": 4,
+  "sku": "CDGIAMP003",
+  "hinh": "https://product.hstatic.net/1000274203/product/gia_do_pheu_ca_phe_7.7cm_mau_den_29236c043b364eceae48535a2d3e05fd_grande.jpg",
+  "gia": 450000,
+  "an_hien": true,
+  "luot_xem": 395,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-03-11T02:27:49.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-03-11T02:27:49.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab3c"
+  },
+  "id": 43,
+  "ten_sp": "Giấy lọc cà phê V60 2-4 tách",
+  "id_loai": 4,
+  "sku": "CD00000066",
+  "hinh": "https://product.hstatic.net/1000274203/product/giay_loc_ca_phe_v60_2-4_tach_a8a6198acba84ba2944ce1481674515b_grande.jpg",
+  "gia": 75000,
+  "an_hien": true,
+  "luot_xem": 838,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-08-24T18:43:07.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-24T18:43:07.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab3e"
+  },
+  "id": 44,
+  "ten_sp": "Giấy lọc hình thang 40 cái",
+  "id_loai": 4,
+  "sku": "CDGIAY0002",
+  "hinh": "https://product.hstatic.net/1000274203/product/giay_loc_hinh_thang_pourover_a8cb174da6634d3381715678123fa5c0_grande.jpg",
+  "gia": 58000,
+  "an_hien": true,
+  "luot_xem": 37,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-06-08T03:08:22.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-08T03:08:22.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab40"
+  },
+  "id": 45,
+  "ten_sp": "Giấy Lọc Lượn Sóng 2 Cup (25 cái)",
+  "id_loai": 4,
+  "sku": "CDGIAY0001",
+  "hinh": "https://product.hstatic.net/1000274203/product/giay_loc_luon_song_2_cup__25_cai__181c180fbe524b1eb070dbe97c4f4609_grande.jpg",
+  "gia": 58000,
+  "an_hien": true,
+  "luot_xem": 606,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-10-31T19:24:18.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-10-31T19:24:18.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab42"
+  },
+  "id": 46,
+  "ten_sp": "Lót tamper đôi",
+  "id_loai": 4,
+  "sku": "CDTAM00006",
+  "hinh": "https://product.hstatic.net/1000274203/product/lot_tamper_doi_5782b3bc6b5748ae97ae6fca5b004559_grande.jpg",
+  "gia": 179000,
+  "an_hien": true,
+  "luot_xem": 859,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-11-22T06:27:44.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-11-22T06:27:44.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab44"
+  },
+  "id": 47,
+  "ten_sp": "Phễu pha cà phê bằng sứ V60 màu trắng 2-4 tách",
+  "id_loai": 4,
+  "sku": "CDPHEMP007",
+  "hinh": "https://product.hstatic.net/1000274203/product/pheu_pha_v60_bang_su_mau_trang_2ea958776c3344879c47aa6ff0c16d22_grande.jpg",
+  "gia": 196000,
+  "an_hien": true,
+  "luot_xem": 554,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-02-07T11:15:28.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-07T11:15:28.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab46"
+  },
+  "id": 48,
+  "ten_sp": "Phễu pha hình quạt bằng sứ 2-4 tách",
+  "id_loai": 4,
+  "sku": "CDPHEMP002",
+  "hinh": "https://product.hstatic.net/1000274203/product/pheu_pha_hinh_quat_bang_su_2-4_tach_3e07e7152c67435683bcbcf6a3e0e7ad_grande.jpg",
+  "gia": 103000,
+  "an_hien": true,
+  "luot_xem": 587,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-08-08T04:33:38.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-08T04:33:38.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab48"
+  },
+  "id": 49,
+  "ten_sp": "Trà Ô long",
+  "id_loai": 5,
+  "sku": "TROLO01001",
+  "hinh": "https://product.hstatic.net/1000274203/product/olong_1_022fed2fa1b942cfbd8eb4a4d9a48a33_grande.png",
+  "gia": 67000,
+  "an_hien": true,
+  "luot_xem": 1165,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-08-12T03:24:29.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-08-12T03:24:29.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab4a"
+  },
+  "id": 50,
+  "ten_sp": "Trà Sen",
+  "id_loai": 5,
+  "sku": "TRSEN04001",
+  "hinh": "https://product.hstatic.net/1000274203/product/huong_sen_1_a6f5e25dec334498ad6881c433687b51_grande.png",
+  "gia": 44000,
+  "an_hien": true,
+  "luot_xem": 1396,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-08-24T13:32:53.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-08-24T13:32:53.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab4c"
+  },
+  "id": 51,
+  "ten_sp": "Trà Lài",
+  "id_loai": 5,
+  "sku": "TRLAI04001",
+  "hinh": "https://product.hstatic.net/1000274203/product/huong_lai_1_27232c47dc0048a39c1ca6947c24254b_grande.png",
+  "gia": 44000,
+  "an_hien": true,
+  "luot_xem": 679,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-06-16T11:05:40.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T11:05:40.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab4e"
+  },
+  "id": 52,
+  "ten_sp": "Máy pha cà phê tự động BREWICO C11",
+  "id_loai": 4,
+  "sku": "TBMPC00018",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_pha_ca_phe_tu_dong_brewico_c11_edf2a0fd62e545a0bf08a292cd7becbf_grande.jpg",
+  "gia": 7500000,
+  "an_hien": true,
+  "luot_xem": 963,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-12-03T07:49:33.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-12-03T07:49:33.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab50"
+  },
+  "id": 53,
+  "ten_sp": "Máy pha cà phê tự động Model CLT Q7",
+  "id_loai": 4,
+  "sku": "TBMCP00011",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_pha_ca_phe_espresso_tu_dong_model_clt-q7_2f7840154bb242899c7dfacd52dfedbb_grande.jpg",
+  "gia": 7300000,
+  "an_hien": true,
+  "luot_xem": 1436,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-05-20T05:49:53.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-20T05:49:53.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab52"
+  },
+  "id": 54,
+  "ten_sp": "Máy pha cà phê - Capsules Delipresso DN2",
+  "id_loai": 4,
+  "sku": "TBMCP00013",
+  "hinh": "https://product.hstatic.net/1000274203/product/4_1149594c6f974fe7be6093f6885a40ff_grande.png",
+  "gia": 2750000,
+  "an_hien": true,
+  "luot_xem": 956,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-10-03T16:45:50.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-10-03T16:45:50.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab54"
+  },
+  "id": 55,
+  "ten_sp": "Máy K-Cup Delipresso DK1 (Trắng)",
+  "id_loai": 4,
+  "sku": "TBMCP00015",
+  "hinh": "https://product.hstatic.net/1000274203/product/3_a081ebd18b5b46f69f507bcf01992f47_grande.png",
+  "gia": 2750000,
+  "an_hien": true,
+  "luot_xem": 1631,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-01-09T20:53:24.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-01-09T20:53:24.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab56"
+  },
+  "id": 56,
+  "ten_sp": "Máy pha cà phê 1 Group HTM Breville 870 XL",
+  "id_loai": 4,
+  "sku": "TBMCP00016",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_pha_ca_phe_1_group_htm_breville_870_xl_7a50d22f9ae94518838ad3661a50a617_grande.jpg",
+  "gia": 3350000,
+  "an_hien": true,
+  "luot_xem": 1622,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-03-02T05:24:17.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-03-02T05:24:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab58"
+  },
+  "id": 57,
+  "ten_sp": "Máy pha cà phê 1 Group HTM Casadio Undici A1",
+  "id_loai": 4,
+  "sku": "TBMCP00018",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_pha_ca_phe_1_group_htm_casadio_undici_a1__1_d663a5eaf1b145b8b7c0a3d6b115280f_grande.jpg",
+  "gia": 3750000,
+  "an_hien": true,
+  "luot_xem": 609,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-09-01T05:20:38.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-09-01T05:20:38.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab5a"
+  },
+  "id": 58,
+  "ten_sp": "Máy pha cà phê 1 Group Bezzera B2016DE1IS5",
+  "id_loai": 4,
+  "sku": "TBMCP00022",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_pha_ca_phe_1_group_bezzera_b2016de1is5_394596450f4a4244866a3f2a06d61fb3_grande.png",
+  "gia": 4800000,
+  "an_hien": true,
+  "luot_xem": 99,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-08-12T21:19:38.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-12T21:19:38.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab5c"
+  },
+  "id": 59,
+  "ten_sp": "Máy pha cà phê 1 Group HTM Gemilai CRM3200B",
+  "id_loai": 4,
+  "sku": "TBMCP00027",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_pha_ca_phe_1_group_htm_gemilai_crm3200b_1039e9d37c5d45f5a4a4e2e9dc83cdeb_grande.jpg",
+  "gia": 4500000,
+  "an_hien": true,
+  "luot_xem": 689,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-03-23T11:13:39.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-23T11:13:39.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab5e"
+  },
+  "id": 60,
+  "ten_sp": "Máy pha cà phê 1 Group Brewico BR F1",
+  "id_loai": 4,
+  "sku": "TBMCP00033",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_pha_ca_phe_1_group_brewico_br_f1_1_7efc05bcfac942329675ac43269c9783_grande.jpg",
+  "gia": 3800000,
+  "an_hien": true,
+  "luot_xem": 296,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-09-18T10:24:24.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-09-18T10:24:24.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab60"
+  },
+  "id": 61,
+  "ten_sp": "Máy pha cà phê 1 Group Brewico Br S1",
+  "id_loai": 4,
+  "sku": "TBMCP00038",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_pha_ca_phe_1_group_brewico_br_s1_408ea8e4daf2414caace757b74eb6ea1_grande.jpg",
+  "gia": 3700000,
+  "an_hien": true,
+  "luot_xem": 1074,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-03-14T07:34:52.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-14T07:34:52.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab62"
+  },
+  "id": 62,
+  "ten_sp": "Máy pha cà phê 1 Group Gemilai CRM 3005E",
+  "id_loai": 4,
+  "sku": "TBMCP00090",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_pha_ca_phe_1_group_gemilai_crm_3005e_bcfbf08dfad947509e10c0b864df3ec3_grande.jpg",
+  "gia": 3100000,
+  "an_hien": true,
+  "luot_xem": 59,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-10-02T15:33:26.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-10-02T15:33:26.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab64"
+  },
+  "id": 63,
+  "ten_sp": "Máy pha cà phê 1 Group TL Bezzera BZ16RDE1IL5B",
+  "id_loai": 4,
+  "sku": "TBMCP01116",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_pha_ca_phe_1_group_tl_bezzera_bz16rde1il5b_d6b4f75ffba34a789a8db64f5b0c20f9_grande.png",
+  "gia": 3200000,
+  "an_hien": true,
+  "luot_xem": 967,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-10-07T22:36:18.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-10-07T22:36:18.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab66"
+  },
+  "id": 64,
+  "ten_sp": "Máy pha cà phê 2 Group Bezzera B2016DE2IS3",
+  "id_loai": 4,
+  "sku": "TBMXC03308",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_pha_ca_phe_2_group_bezzera_b2016de2is3_ba83c1142375477d99a60915fa92269d_grande.png",
+  "gia": 5700000,
+  "an_hien": true,
+  "luot_xem": 188,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-03-13T05:06:36.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-03-13T05:06:36.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab68"
+  },
+  "id": 65,
+  "ten_sp": "Máy xay cà phê FAEMA MF64",
+  "id_loai": 4,
+  "sku": "TBMXC00007",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_xay_ca_phe_faema_mf64_9afa65aebda140de802a16dc26b49d2b_grande.jpg",
+  "gia": 5100000,
+  "an_hien": true,
+  "luot_xem": 961,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-10-01T15:47:49.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-10-01T15:47:49.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab6a"
+  },
+  "id": 66,
+  "ten_sp": "Máy xay cà phê FIORENZATO F4 ECO",
+  "id_loai": 4,
+  "sku": "TBMXC00009",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_xay_ca_phe_fiorenzato_f4_eco_ed536deae6d3485aad0d7172d769d64c_grande.jpg",
+  "gia": 2700000,
+  "an_hien": true,
+  "luot_xem": 699,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-02-01T06:40:06.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-02-01T06:40:06.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab6c"
+  },
+  "id": 67,
+  "ten_sp": "Máy xay cà phê FIORENZATO F64E",
+  "id_loai": 4,
+  "sku": "TBMXC00010",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_xay_cafe_fiorenzato_f64e_-_mau_den_f5089e38d9ce41fd87c5c90cc31c0fbd_grande.jpg",
+  "gia": 3200000,
+  "an_hien": true,
+  "luot_xem": 385,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-07-19T03:25:42.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-07-19T03:25:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab6e"
+  },
+  "id": 68,
+  "ten_sp": "Máy xay cà phê HC600 ON DEMAND V1",
+  "id_loai": 4,
+  "sku": "TBMXC01208",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_xay_ca_phe_hc600_on_demand_v1_0d54d75e01e74c92852be5a12a7305ac_grande.jpg",
+  "gia": 4300000,
+  "an_hien": true,
+  "luot_xem": 922,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-12-27T09:13:01.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-12-27T09:13:01.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab70"
+  },
+  "id": 69,
+  "ten_sp": "Máy xay cà phê HC600 PHIÊN BẢN 2.0 N VERSION",
+  "id_loai": 4,
+  "sku": "TBMXC00008",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_xay_ca_phe_hc600_phien_ban_2.0_n_version_ab0692ea31e34024af14e3284aba9609_grande.jpg",
+  "gia": 4500000,
+  "an_hien": true,
+  "luot_xem": 348,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-05-18T08:09:21.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-18T08:09:21.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab72"
+  },
+  "id": 70,
+  "ten_sp": "Máy Đo Màu Cà Phê Dipper KN-201",
+  "id_loai": 4,
+  "sku": "TBMXC33008",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_do_mau_ca_phe_dipper_kn-201_efcc50a897554ef2b64e22594547cd4b_grande.jpg",
+  "gia": 21500000,
+  "an_hien": true,
+  "luot_xem": 1256,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-01-03T06:14:36.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-01-03T06:14:36.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab74"
+  },
+  "id": 71,
+  "ten_sp": "Máy đo TDS cà phê DiFluid R1 Extract",
+  "id_loai": 4,
+  "sku": "CDMDM00002",
+  "hinh": "https://product.hstatic.net/1000274203/product/6_f38e6133e2b748f28aba5da5734b37d3_1024x1024.jpg",
+  "gia": 3100000,
+  "an_hien": true,
+  "luot_xem": 979,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-12-09T00:35:11.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-12-09T00:35:11.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab76"
+  },
+  "id": 72,
+  "ten_sp": "Máy đo TDS cà phê DiFluid R2 Extract",
+  "id_loai": 4,
+  "sku": "CDMDM00003",
+  "hinh": "https://product.hstatic.net/1000274203/product/3_cee89e872b994fc79a1ec475467959ba_1024x1024.jpg",
+  "gia": 5500000,
+  "an_hien": true,
+  "luot_xem": 1967,
+  "tags": "",
+  "created_at": {
+    "$date": "2023-09-01T08:21:42.000Z"
+  },
+  "updated_at": {
+    "$date": "2023-09-01T08:21:42.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab78"
+  },
+  "id": 73,
+  "ten_sp": "Máy xay sinh tố Blendtec CONNOISSEUR 825 (2 cối WS)",
+  "id_loai": 4,
+  "sku": "TBMXS00001",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_xay_sinh_to_blendtec_connoisseur_825__2_coi_ws__7ac873c9d59d4742a653815a8ca7a354_grande.jpg",
+  "gia": 2500000,
+  "an_hien": true,
+  "luot_xem": 830,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-08-04T08:55:15.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-04T08:55:15.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab7a"
+  },
+  "id": 74,
+  "ten_sp": "Máy xay sinh tố Blendtec STEALTH 885 (2 cối WS)",
+  "id_loai": 4,
+  "sku": "TBMXS00005",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_xay_sinh_to_blendtec_stealth_885__2_coi_ws__1ce85e74f11f47f688f32c68974667f4_grande.jpg",
+  "gia": 3500000,
+  "an_hien": true,
+  "luot_xem": 981,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-08-02T19:58:14.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-02T19:58:14.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab7c"
+  },
+  "id": 75,
+  "ten_sp": "Máy xay sinh tố TL- Blendtec EZ 600 (1 cối FS)",
+  "id_loai": 4,
+  "sku": "TBMXS00002",
+  "hinh": "https://product.hstatic.net/1000274203/product/may_xay_sinh_to_blendtec_ez_600__1_coi_fs__4020256ac34b4d3fb2e6857da31d05b4_grande.jpg",
+  "gia": 2340000,
+  "an_hien": true,
+  "luot_xem": 1564,
+  "tags": "",
+  "created_at": {
+    "$date": "2024-03-28T01:38:15.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-03-28T01:38:15.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f63843172f0dd70003053"
+  },
+  "id": 76,
+  "ten_sp": "Cà phê đen",
+  "id_loai": 1,
+  "sku": "SP1",
+  "hinh": "https://phuclong.com.vn/uploads/dish/4521f4c77fc38a-cf67efb06d5aa504fc4b.png",
+  "gia": 15000,
+  "an_hien": true,
+  "luot_xem": 1,
+  "tags": "Sản phẩm hoàn hảo",
+  "created_at": {
+    "$date": "2024-07-23T08:02:12.651Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-23T08:02:12.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f6f5b943757efb42815a3"
+  },
+  "id": 77,
+  "ten_sp": "Cà phê sữa đá",
+  "id_loai": 2,
+  "sku": "CP751",
+  "hinh": "https://phuclong.com.vn/uploads/dish/8ebb07f0eeccc1-resize_damdadunggu07.png",
+  "gia": 25000,
+  "an_hien": true,
+  "luot_xem": 0,
+  "tags": "Cà phê ngon quá",
+  "created_at": {
+    "$date": "2024-07-23T08:52:43.616Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-25T07:35:29.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3beb12da228bf9fa589e3"
+  },
+  "id": 78,
+  "ten_sp": "Khang",
+  "id_loai": 1,
+  "sku": "SP001",
+  "hinh": "anhnen4.png",
+  "gia": 35000,
+  "an_hien": true,
+  "luot_xem": 10,
+  "tags": "Sản phẩm rất tốt",
+  "created_at": {
+    "$date": "2024-07-26T15:20:17.471Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-26T15:20:17.472Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3c7b168dfe9e09b06a3fc"
+  },
+  "id": 79,
+  "ten_sp": "Laptop5",
+  "id_loai": 2,
+  "sku": "123",
+  "hinh": "cty.jpg",
+  "gia": 5000,
+  "an_hien": true,
+  "luot_xem": 3,
+  "tags": "fwefw",
+  "created_at": {
+    "$date": "2024-07-26T15:58:41.614Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-26T15:58:41.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3cd2eda5206c8d3493be6"
+  },
+  "id": 80,
+  "ten_sp": "Laptop5",
+  "id_loai": 1,
+  "sku": "12345",
+  "hinh": "nguoi_mau.jpg",
+  "gia": 12000,
+  "an_hien": true,
+  "luot_xem": 1,
+  "tags": "fsger",
+  "created_at": {
+    "$date": "2024-07-26T16:22:06.458Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-26T16:22:06.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3cd6ada5206c8d3493bea"
+  },
+  "id": 81,
+  "ten_sp": "Laptop6",
+  "id_loai": 2,
+  "sku": "123",
+  "hinh": "410196263_1371501217074201_1698102744048007682_n.jpg",
+  "gia": 120000,
+  "an_hien": false,
+  "luot_xem": 12,
+  "tags": "fwefe",
+  "created_at": {
+    "$date": "2024-07-26T16:23:06.570Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-26T16:23:06.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3d0b2266ff8685a9faa25"
+  },
+  "id": 82,
+  "ten_sp": "undefined",
+  "id_loai": 1,
+  "sku": "123",
+  "hinh": "nguoi_mau.jpg",
+  "gia": 23000000,
+  "an_hien": true,
+  "luot_xem": 0,
+  "tags": "1fewjfiewf",
+  "created_at": {
+    "$date": "2024-07-26T16:37:06.415Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-26T16:37:06.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3d141266ff8685a9faa29"
+  },
+  "id": 83,
+  "ten_sp": "Laptop 7",
+  "id_loai": 1,
+  "sku": "123",
+  "hinh": "logo.png",
+  "gia": 2300000,
+  "an_hien": false,
+  "luot_xem": 0,
+  "tags": "fewjifjw",
+  "created_at": {
+    "$date": "2024-07-26T16:39:29.792Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-26T16:39:29.792Z"
+  },
+  "__v": 0
+}]

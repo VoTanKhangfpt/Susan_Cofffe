@@ -1,0 +1,320 @@
+[{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab8d"
+  },
+  "id": 1,
+  "id_sp": 1,
+  "id_dh": 1,
+  "ten_sp": "Robusta Dak Mil - 500g",
+  "gia_mua": 134000,
+  "so_luong": 2,
+  "sku": "CF175HA005",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_nguyen_chat_robusta_dak_mil_-_phuong_vy_coffee_e718b84fc7c246eea7a4300d09c937e7_grande.jpg",
+  "created_at": {
+    "$date": "2024-07-11T08:04:33.131Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-11T08:04:33.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f92111a34e3376f4bab90"
+  },
+  "id": 2,
+  "id_sp": 3,
+  "id_dh": 2,
+  "ten_sp": "Arabica Cầu Đất - 500g",
+  "gia_mua": 194000,
+  "so_luong": 2,
+  "sku": "CF175HA004",
+  "hinh": "https://product.hstatic.net/1000274203/product/thanh_phan_ca_phe_nguyen_chat_arabica_cau_dat_-_phuong_vy_coffee_14686d8e8eaf4cd9b564d21bf305fbae_grande.jpg",
+  "created_at": {
+    "$date": "2024-07-11T08:04:33.148Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-11T08:04:33.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b70d9584047bf2b2df15d"
+  },
+  "id": 3,
+  "id_sp": 3,
+  "id_dh": 2,
+  "ten_sp": "Arabica Cầu Đất - 500g",
+  "gia_mua": 194000,
+  "so_luong": 2,
+  "sku": "CF175HA004",
+  "hinh": "",
+  "created_at": {
+    "$date": "2024-07-20T08:10:01.209Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:10:01.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b75b4584047bf2b2df16f"
+  },
+  "id": 4,
+  "id_sp": 13,
+  "id_dh": 4,
+  "ten_sp": "Love Coffee - 500g",
+  "gia_mua": 148000,
+  "so_luong": 1,
+  "sku": "CFS21HA001",
+  "hinh": "",
+  "created_at": {
+    "$date": "2024-07-20T08:30:44.634Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:30:44.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b75b4584047bf2b2df172"
+  },
+  "id": 5,
+  "id_sp": 15,
+  "id_dh": 4,
+  "ten_sp": "Cà Phê Mộc 2 - 500g",
+  "gia_mua": 140000,
+  "so_luong": 1,
+  "sku": "CFR02HA001",
+  "hinh": "",
+  "created_at": {
+    "$date": "2024-07-20T08:30:44.647Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:30:44.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b75b4584047bf2b2df175"
+  },
+  "id": 6,
+  "id_sp": 14,
+  "id_dh": 4,
+  "ten_sp": "Cà Phê Mộc 1 - 500g",
+  "gia_mua": 147000,
+  "so_luong": 1,
+  "sku": "CFR01HA001",
+  "hinh": "",
+  "created_at": {
+    "$date": "2024-07-20T08:30:44.656Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:30:44.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b7634584047bf2b2df17b"
+  },
+  "id": 7,
+  "id_sp": 13,
+  "id_dh": 5,
+  "ten_sp": "Love Coffee - 500g",
+  "gia_mua": 148000,
+  "so_luong": 1,
+  "sku": "CFS21HA001",
+  "hinh": "",
+  "created_at": {
+    "$date": "2024-07-20T08:32:52.688Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:32:52.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b7634584047bf2b2df17e"
+  },
+  "id": 8,
+  "id_sp": 15,
+  "id_dh": 5,
+  "ten_sp": "Cà Phê Mộc 2 - 500g",
+  "gia_mua": 140000,
+  "so_luong": 1,
+  "sku": "CFR02HA001",
+  "hinh": "",
+  "created_at": {
+    "$date": "2024-07-20T08:32:52.702Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:32:52.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b7634584047bf2b2df181"
+  },
+  "id": 9,
+  "id_sp": 14,
+  "id_dh": 5,
+  "ten_sp": "Cà Phê Mộc 1 - 500g",
+  "gia_mua": 147000,
+  "so_luong": 1,
+  "sku": "CFR01HA001",
+  "hinh": "",
+  "created_at": {
+    "$date": "2024-07-20T08:32:52.715Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:32:52.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b769a584047bf2b2df187"
+  },
+  "id": 10,
+  "id_sp": 13,
+  "id_dh": 6,
+  "ten_sp": "Love Coffee - 500g",
+  "gia_mua": 148000,
+  "so_luong": 1,
+  "sku": "CFS21HA001",
+  "hinh": "",
+  "created_at": {
+    "$date": "2024-07-20T08:34:34.186Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:34:34.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b769a584047bf2b2df18a"
+  },
+  "id": 11,
+  "id_sp": 15,
+  "id_dh": 6,
+  "ten_sp": "Cà Phê Mộc 2 - 500g",
+  "gia_mua": 140000,
+  "so_luong": 1,
+  "sku": "CFR02HA001",
+  "hinh": "",
+  "created_at": {
+    "$date": "2024-07-20T08:34:34.218Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:34:34.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b769a584047bf2b2df18d"
+  },
+  "id": 12,
+  "id_sp": 14,
+  "id_dh": 6,
+  "ten_sp": "Cà Phê Mộc 1 - 500g",
+  "gia_mua": 147000,
+  "so_luong": 1,
+  "sku": "CFR01HA001",
+  "hinh": "",
+  "created_at": {
+    "$date": "2024-07-20T08:34:34.234Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:34:34.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b76d5584047bf2b2df199"
+  },
+  "id": 13,
+  "id_sp": 13,
+  "id_dh": 7,
+  "ten_sp": "Love Coffee - 500g",
+  "gia_mua": 148000,
+  "so_luong": 1,
+  "sku": "CFS21HA001",
+  "hinh": "",
+  "created_at": {
+    "$date": "2024-07-20T08:35:33.947Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:35:33.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b76d5584047bf2b2df19c"
+  },
+  "id": 14,
+  "id_sp": 15,
+  "id_dh": 7,
+  "ten_sp": "Cà Phê Mộc 2 - 500g",
+  "gia_mua": 140000,
+  "so_luong": 4,
+  "sku": "CFR02HA001",
+  "hinh": "",
+  "created_at": {
+    "$date": "2024-07-20T08:35:33.962Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:35:33.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b76d5584047bf2b2df19f"
+  },
+  "id": 15,
+  "id_sp": 14,
+  "id_dh": 7,
+  "ten_sp": "Cà Phê Mộc 1 - 500g",
+  "gia_mua": 147000,
+  "so_luong": 3,
+  "sku": "CFR01HA001",
+  "hinh": "",
+  "created_at": {
+    "$date": "2024-07-20T08:35:33.979Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:35:33.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b79ea584047bf2b2df1ab"
+  },
+  "id": 16,
+  "id_sp": 15,
+  "id_dh": 8,
+  "ten_sp": "Cà Phê Mộc 2 - 500g",
+  "gia_mua": 140000,
+  "so_luong": 1,
+  "sku": "CFR02HA001",
+  "hinh": "",
+  "created_at": {
+    "$date": "2024-07-20T08:48:42.309Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-20T08:48:42.309Z"
+  },
+  "__v": 0
+}]

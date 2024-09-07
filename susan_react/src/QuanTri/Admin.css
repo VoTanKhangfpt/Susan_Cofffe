@@ -1,0 +1,22 @@
+/* QuanTri/Admin.css */
+.container > header { height: 90px; background:#6a0000} 
+.container #logo { 
+    font-size: 24px; font-weight: 600; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: white; display: flex; align-items: center;
+}
+
+
+#adminspList .sp { 
+    display: grid; 
+    grid-template-columns: 200px  auto 250px 120px; 
+    margin-bottom:2px; 
+}
+#adminspList .sp:first-child > b { background: #ffc107; color:white;  }
+#adminspList .sp:first-child > a { background: #ffc107; color:white;  }
+#adminspList .sp > * { 
+border: 1px solid #dc3545; padding: 8px; font-size:20px; margin:0px; text-align: center}
+#adminspList .sp img.hinh { height: 150px }
+#adminspList .sp > *:nth-child(2) { text-align: left; }
+#adminspList .sp p { margin: 5px }
+  
